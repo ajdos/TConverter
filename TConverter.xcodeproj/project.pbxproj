@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1E2B538621E1363000A42D5E /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 1E2B538521E1363000A42D5E /* .gitignore */; };
 		1E646F5B21DBE67B0099DEFE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E646F5A21DBE67B0099DEFE /* AppDelegate.swift */; };
 		1E646F5D21DBE67B0099DEFE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E646F5C21DBE67B0099DEFE /* ViewController.swift */; };
 		1E646F6021DBE67B0099DEFE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E646F5E21DBE67B0099DEFE /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1E2B538521E1363000A42D5E /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		1E646F5721DBE67B0099DEFE /* TConverter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TConverter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E646F5A21DBE67B0099DEFE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1E646F5C21DBE67B0099DEFE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				1E646F5A21DBE67B0099DEFE /* AppDelegate.swift */,
 				1E646F5C21DBE67B0099DEFE /* ViewController.swift */,
+				1E2B538521E1363000A42D5E /* .gitignore */,
 				1E646F5E21DBE67B0099DEFE /* Main.storyboard */,
 				1E646F6121DBE67C0099DEFE /* Assets.xcassets */,
 				1E646F6321DBE67C0099DEFE /* LaunchScreen.storyboard */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1E2B538621E1363000A42D5E /* .gitignore in Resources */,
 				1E646F6521DBE67C0099DEFE /* LaunchScreen.storyboard in Resources */,
 				1E646F6221DBE67C0099DEFE /* Assets.xcassets in Resources */,
 				1E646F6021DBE67B0099DEFE /* Main.storyboard in Resources */,
